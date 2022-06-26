@@ -1,2 +1,5 @@
-# water-level-indication
-Water level indication project with Proteus implementation.
+# Water Level Indicator - Digital design
+
+## Tool
+
+Proteus - .pdsprj
